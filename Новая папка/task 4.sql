@@ -1,0 +1,1 @@
+SELECT p.Discontinued,p.UnitsInStock From Products p 
